@@ -1,0 +1,13 @@
+Column,Missing Values
+PassengerId,0
+Survived,0
+Pclass,0
+Name,0
+Sex,0
+Age,86
+SibSp,0
+Parch,0
+Ticket,0
+Fare,1
+Cabin,327
+Embarked,0
